@@ -1,0 +1,11 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "Installed Node.js from the official website.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandeep Bhandari",
+  "license": "ISC"
+}
